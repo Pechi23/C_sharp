@@ -37,9 +37,9 @@ namespace Collatz_conjecture
             int n = Convert.ToInt32(Console.ReadLine());
            
             List<int> Collatz = collatz_function_values(n);
-            int lenght = Collatz.Count;
+            int length = Collatz.Count;
 
-            Console.WriteLine($"lungimea secventei Collatz pornind de la valoarea {n} este de {lenght} termeni");
+            Console.WriteLine($"lungimea secventei Collatz pornind de la valoarea {n} este de {length} termeni");
         }
 
         private static void ex2()
@@ -49,11 +49,8 @@ namespace Collatz_conjecture
 
             List<int> Collatz = collatz_function_values(n);
             int maxx = 1; //minimum value possible
-            foreach(int value in Collatz)
-                if(maxx < value)
-                    maxx = value;
 
-            Console.WriteLine($"cea mai mare valoare din secventa Collatz pornind de la valoarea {n} este {maxx}");
+            Console.WriteLine($"cea mai mare valoare din secventa Collatz pornind de la valoarea {n} este {Collatz.Max()}");
         }
 
         private static void ex3()

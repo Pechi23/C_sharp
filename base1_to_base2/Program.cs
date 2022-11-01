@@ -64,7 +64,7 @@ namespace myApp
         }
 
         /// <summary>
-        /// convert an input from base b1 in base b2 and shows the result
+        /// converts an input from base b1 in base b2 and shows the result
         /// </summary>
         /// <param name="b1"></param>
         /// <param name="b2"></param>
@@ -77,7 +77,7 @@ namespace myApp
         }
 
         /// <summary>
-        /// convert an input from base b1 to base 10 and returns the result
+        /// converts an input from base b1 to base 10 and returns the result
         /// </summary>
         /// <param name="b1"></param>
         /// <param name="input"></param>
@@ -91,7 +91,7 @@ namespace myApp
         }
 
         /// <summary>
-        /// convert an input from base 10 to base b1 and returns the result
+        /// converts an input from base 10 to base b1 and returns the result
         /// </summary>
         /// <param name="b1"></param>
         /// <param name="input"></param>

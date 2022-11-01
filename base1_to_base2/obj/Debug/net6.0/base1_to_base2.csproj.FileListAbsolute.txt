@@ -1,0 +1,15 @@
+C:\Users\George\source\repos\C_sharp\base1_to_base2\bin\Debug\net6.0\base1_to_base2.exe
+C:\Users\George\source\repos\C_sharp\base1_to_base2\bin\Debug\net6.0\base1_to_base2.deps.json
+C:\Users\George\source\repos\C_sharp\base1_to_base2\bin\Debug\net6.0\base1_to_base2.runtimeconfig.json
+C:\Users\George\source\repos\C_sharp\base1_to_base2\bin\Debug\net6.0\base1_to_base2.dll
+C:\Users\George\source\repos\C_sharp\base1_to_base2\bin\Debug\net6.0\ref\base1_to_base2.dll
+C:\Users\George\source\repos\C_sharp\base1_to_base2\bin\Debug\net6.0\base1_to_base2.pdb
+C:\Users\George\source\repos\C_sharp\base1_to_base2\obj\Debug\net6.0\base1_to_base2.csproj.AssemblyReference.cache
+C:\Users\George\source\repos\C_sharp\base1_to_base2\obj\Debug\net6.0\base1_to_base2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\source\repos\C_sharp\base1_to_base2\obj\Debug\net6.0\base1_to_base2.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\C_sharp\base1_to_base2\obj\Debug\net6.0\base1_to_base2.AssemblyInfo.cs
+C:\Users\George\source\repos\C_sharp\base1_to_base2\obj\Debug\net6.0\base1_to_base2.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\C_sharp\base1_to_base2\obj\Debug\net6.0\base1_to_base2.dll
+C:\Users\George\source\repos\C_sharp\base1_to_base2\obj\Debug\net6.0\ref\base1_to_base2.dll
+C:\Users\George\source\repos\C_sharp\base1_to_base2\obj\Debug\net6.0\base1_to_base2.pdb
+C:\Users\George\source\repos\C_sharp\base1_to_base2\obj\Debug\net6.0\base1_to_base2.genruntimeconfig.cache

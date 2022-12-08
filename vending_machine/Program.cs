@@ -103,7 +103,7 @@ namespace myApp
         private void DispenseProducts(int count)
         {
             TotalValue -= ProductValue * count;
-            Console.WriteLine($"felicitari! Ai primit {count} produse in valoare de {ProductValue *count} bani! ");
+            Console.WriteLine($"felicitari! Ai primit {count} produse in valoare de {ProductValue * count} bani! ");
         }
         private void DispenseRemainder(int value)
         {
@@ -137,10 +137,9 @@ namespace myApp
     }
     class Program
     {
-        public static VendingMachine Machine = new VendingMachine();
-        
         static void Main(string[] args)
         {
+            var Machine = new VendingMachine();
             Machine.SetProductValue();
             Machine.SetAvailableCoins();
             Machine.Action();

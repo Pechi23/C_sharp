@@ -17,6 +17,7 @@ namespace _11_24_laborator
         public InputForm()
         {
             InitializeComponent();
+            
         }
         private void InputForm_Load_1(object sender, EventArgs e)
         {
@@ -95,10 +96,14 @@ namespace _11_24_laborator
                         //(Display.Text[Display.Text.Length - 1]).Enabled = true;
                         //Display.Text = Display.Text.Substring(0, Display.Text.Length - 1);
                         //for(int i=0;i<3;i++)
-                        //    for(int j=0;j<)
+                        //    for(int j=0;j<4;j++)
+                        //        T[i][j].Enabled = true;
+                        max = 0;
+
                         break;
                     case 11:
-
+                        Engine.x = int.Parse(Display.Text);
+                        this.Close();
                         break;
                 }
             }
